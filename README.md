@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#two_hearts-o-projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-site-online">Projeto Online</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-projeto-online">Projeto Online</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#computer-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -46,9 +46,13 @@ https://pgratao.com.br/brafe1
 
 ![Brafé Desktop](.github/brafe-desktop.jpg)
 
+<br>
+
 ## Site Tablet
 
 ![Brafé responsivo para tablet](.github/brafe-tablet.jpg)
+
+<br>
 
 ## Site Mobile
 
