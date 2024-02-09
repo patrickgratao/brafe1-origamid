@@ -37,7 +37,7 @@ O Brafé foi desenvolvido com as seguintes tecnologias:
 
 Veja o Brafé em funcionamento acesse o link abaixo:
 
-https://pgratao.com.br/brafe1
+[https://pgratao.com.br/brafe1](https://patrickgratao.github.io/brafe1-origamid/cssgrid/)
 
 
 # :computer: Layout
